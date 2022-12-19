@@ -16,7 +16,7 @@ This project demonstrates a complete Drupal 9 development environment, utilizing
 
 ## Try it out:
 1. Click on the following link
-  <a href="https://gitpod.io/#https://github.com/imrodmartin/ddev-gitpod" target="_blank">https://gitpod.io/#https://github.com/imrodmartin/ddev-gitpod</a>
+  <a href="https://gitpod.io/#https://github.com/tawellman25/ddev-gitpod" target="_blank">https://gitpod.io/#https://github.com/tawellman25/ddev-gitpod</a>
 1. Your environment is being prepared, wait about 40 seconds (A splash screen will appear)
 2. VScode IDE will be displayed, a few seconds later you will see a fresh blank Drupal site.
 3. Open your website's URL in a browser (at the bottom of the terminal window)
