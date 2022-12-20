@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/ bash
 
 if [ ! -x ~/.projector/configs/PhpStorm/run.sh ]; then
   echo "PhpStorm runner not found" && exit 1

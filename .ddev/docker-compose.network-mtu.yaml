@@ -10,7 +10,7 @@
 # its own docker-compose binary at /home/gitpod/.ddev/bin/docker-compose
 # ddev issue [WIP] - https://github.com/drud/ddev/issues/3766
 # 
-# Align the MTU value to the one that is set in Gitpod (1440)
+# Align the MTU value to the one  that is set in Gitpod (1440)
 
 networks:
   default:
